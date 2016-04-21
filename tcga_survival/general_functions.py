@@ -13,8 +13,10 @@ from itertools import ifilter
 import sys
 import math
 
-from File_Class import *
-from Constant_Library import *
+#from File_Class import *
+from tcga_survival.constant import *
+from tcga_survival.general_class import *
+#sfrom Constant_Library import *
 #print "General library Loaded"
 
 ## common function documents
